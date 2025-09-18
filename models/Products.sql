@@ -1,0 +1,1 @@
+Select * from DB_ABEED_02.RAW_SCHEMA.PRODUCTS

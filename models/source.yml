@@ -1,0 +1,11 @@
+version: 2
+sources:
+ - name: source_src
+   database: DB_ABEED_02
+   schema: RAW_SCHEMA
+   tables:
+     - name: ORDERS
+     - name: CUSOTMERS
+     - name: ORDERS_ITEMS
+     - name: PAYMENTS
+     - name: PRODUCTS

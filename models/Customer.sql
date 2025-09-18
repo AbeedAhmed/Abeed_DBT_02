@@ -1,8 +1,3 @@
-{{
-    config(
-        materialized='View'
-    )
-}}
 
 SELECT
     ID AS CUSTOMER_ID,
